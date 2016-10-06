@@ -1,0 +1,40 @@
+info_latitude,info_longitude,info_address,info_city,info_state,info_zip,info_country,info_notes,info_lastName,info_maidenName,info_firstName,info_middleName,info_intern,info_resident,info_fellow,info_fellowshipSection,info_honoraryFellow,info_formerFaculty,info_facultySection,info_residencyBegin,info_residencyEnd,info_fellowshipBegin,info_fellowshipEnd,info_institution,info_position,info_count,info_resDate,info_felDate,info_date,info_status
+39.9429016,32.8605003,,Ankara,,,Turkey,"here 2008, Turkey?",Arat,,Anil,,,,,,,fac,Neuroradiology,,,,,"Department of Radiology, School of Medicine, Hacettepe University",Neuroradiologist,1,1900,1900,2008,fac
+49.80591,9.95799,"Insitut fur Rontgendiagnostik, Universitatsklinikum Wurzburg, Oberdurrbacher Str 6",Wuerzburg,Germany,97080,,Unsure of how to format the German address,Bley,,Thorsten,,,,,,,fac,Thoracic Imaging,,,,,,Visiting faculty,1,1900,1900,2009,fac
+43.059272,-89.401512,700 S Park St,Madison,WI,53715,,,Block,,Jeffrey,,,,,,,fac,,,,,,Madison Radiologists,,1,1900,1900,2016,fac
+41.7638605,-72.6588039,111 Founders Plz ,East Hartford,CT,6108,,,Brown,,Jeffrey,,,,,,,fac,,,,,,,,1,1900,1900,2016,fac
+41.546379,-93.759918,1608 S. 42nd Street,West Des Moines,IA,50265,,,Choi,,James,,,,,,,fac,,,,,,,,1,1900,1900,2005,fac
+43.076085,-89.4290999,600 Highland Ave,Madison,WI,53792,,emeritus- retired 2012,De Smet,,Arthur,,,,,,,fac,Musculoskeletal Imaging and Intervention,,,,,UW,emeritus,1,1900,1900,2012,fac
+33.7912025,-84.2831039,2675 North Decatur Road,Decatur,GA,30033,,residency and fellowship at MCOW,Erickson,,Eric,Matthew,,,,,,fac,Imaging Sciences,,,,,Radiology Associates of DeKalb,,1,1900,1900,2009,fac
+51.06462,-114.131,1403 29th Street,Calgary,,49525,Canada,,Frayne,,Richard,,,,,,,fac,,,,,,,,1,1900,1900,1999,fac
+53.8662682,10.6808796,,LÅbeck,Schleswig-Holstein,,Germany,Visiting Fellow,Frydrychowicz,,Alex,,,,,,,fac,"Cardiovascular Imaging, Imaging Sciences",,,,,University Medical Center Schleswig-Holstein £ Clinic for Radiology and Nuclear Medicine,,1,1900,1900,2011,fac
+35.9316483,-84.1121216,815 Ethan?s Glen Dr.,Knoxville,TN,37923,,,Gould,,Howard,,,,,,,fac,,,,,,,,1,1900,1900,1984,fac
+59.8978,10.7912199,Draaga 3,Oslo ,Norway,,,,Johansen,,Johan,,,,,,,fac,,,,,,,Visiting faculty,1,1900,1900,1984,fac
+40.2754898,-76.6493835,813 Linden Rd,Hershey,PA,17033,,,Kasales,,Claudia,,,,,,,fac,,,,,,,,1,1900,1900,1990,fac
+41.667098,-91.590843,28 Burr Oak Court,Iowa City,IA,52246,,,Kim,,Jinsuh,,,,,,,fac,,,,,,,,1,1900,2005,2005,fac
+37.5150185,127.0164719,,Seoul,,,Korea,,Kim,,Bohyun,,,,,,,fac,,,,,,,Visiting faculty,1,1900,1900,2000,fac
+48.1390991,11.5144997,,Munich,,,Germany,former Visiting Associate Professor,Kramer,,J. Harald,,,,,,,fac,Cardiovascular Imaging,,,,,"Institute for Clinical Radiology, Ludwig-Maximilians-University Hospital Munich",,1,1900,1900,2013,fac
+43.1917038,-89.2669296,3474 Swansee Ridge,Sun Prairie,WI,53593,,,Krubsack,,Arnold,,,,,,,fac,Nuclear Medicine,,,,,,,1,1900,1900,1993,fac
+54.08816,13.40253,Fleischmannstra†e 8,17475 Greifswald,,,Germany,former Visiting Assistant Professor,Kuehn,,Jens-Peter,,,,,,,fac,Cardiovascular Imaging,,,,,University Medicine Greifswald,,1,1900,1900,2012,fac
+44.8244514,-85.656105,10472 Monaco Way,Traverse City,MI,49684,,,Norris,,Martha,,,,,,,fac,,,,,,,,1,1900,1900,2001,fac
+47.5356331,-122.1776657,7425 122nd Place SE,Newcastle,WA,98056,,,Ochsner,,Jennifer,,,,,Radiology,,fac,,7/1/2002,6/30/2006,,,Seattle Cancer Care Alliance,Women's Imaging Fellowship,1,2006,1900,2006,fac
+41.8944054,-87.6231308,676 N Saint Clair St,Chicago,IL,60611,,,Omary,,Reed,,,,,,,fac,,,,,,,,1,1900,1900,2003,fac
+43.076085,-89.4290999,600 Highland Ave,Madison,WI,53792,,emeritus,Peters,,Mary Ellen,,,,,,,fac,,,,,,UW,Emeritus,1,1900,1900,1998,fac
+37.7271319,-89.2629162,3116 W. Sunset Dr.,Carbondale,IL,62901,,,Rayan,,Mamdouh,,,,,,,fac,,,,,,,,1,1900,1900,2003,fac
+43.0053329,-89.4384689,5713 Margate St.,Fitchburg,WI,53711,,,Reddy,,Anne,,,,,,,fac,,,,,,,,1,1900,1900,2007,fac
+43.076085,-89.4290999,600 Highland Avenue,Madison,WI,53792,,,Roggensack,,George,,,,,,,fac,,,,,,,,1,1900,1900,2007,fac
+28.4930878,-82.47229,P.O. Box 2297,Ponte Vedra Beach,FL,32004,,,Sackett,,Joseph,,,,,,,fac,,,,,,,,1,1900,1900,1997,fac
+36.3675141,-105.5775719,1397 Weimer Road,Taos,NM,87571,,emeritus,Selzer,,Peter,,,,,,,fac,Community Radiology,,,,,UW,emeritus,1,1900,1900,2007,fac
+44.8879776,-93.425827,11705 Thornhill Rd,Eden Prairie,MN,55344,,,Simpson,,Kurt,,,,,,,fac,,,,,,,,1,1900,1900,1997,fac
+44.3073959,-88.402832,4517 North Knollwood Lane,Appleton,WI,54913,,,Smick,,James,,,,,,,fac,,,,,,,,1,1900,1900,1995,fac
+44.5062103,-88.1125565,2094 Meadowsweet Drive,Green Bay,WI,54313,,,Sproat,,Ian,,,,,,,fac,,,,,,,,1,1900,1900,1996,fac
+44.974968,-93.2732544,825 Nicollett Mall 1500,Minneapolis,MN,55042,,,Sullivan,,James,,,,,,,fac,,,,,,,,1,1900,1900,2000,fac
+44.9373245,-93.2073212,3617 46th Ave,Minneapolis,MN,55406,,,Taylor,,Andrew,,,,,,,fac,Abdominal Imaging,,,,,,,1,1900,1900,2009,fac
+33.7921333,-111.9326477,33806 N. 69th St.,Scottsdale,AZ,85262,,,Unger,,June,,,,,,,fac,,,,,,,,1,1900,1900,1995,fac
+50.8055,8.7775803,,Marburg,,,Germany,,Wagner,,Hans-Joachim,,,,,,,fac,,,,,,,Visiting faculty,1,1900,1900,2002,fac
+43.052495,-88.009343,P.O. Box 414,Milwaukee,WI,53201,,,Weber,,David,,,,,,,fac,,,,,,,,1,1900,1900,2000,fac
+41.6686554,-83.5420609,2213 Cherry St,Toledo,OH,43608,,retired,Wilson,,Michael,A,,,,,,fac,Nuclear Medicine,,,,,UW,Retired,1,1900,1900,2014,fac
+40.7641006,-111.83525,230 Chase Street,Salt Lake City,UT,84113,,,Winter,,Thomas,,,,,,,fac,Abdominal Imaging,,,,,,,1,1900,1900,2009,fac
+43.076085,-89.4290999,600 Highland Ave,Madison,WI,53792,,emeritus,Wojtowycz,,Myron,,,,,,,fac,Interventional Radiology,,,,,UW,Emeritus,1,1900,1900,2007,fac
+43.076085,-89.4290999,600 Highland Ave,Madison,WI,53792,,emeritus,Yandow,,Donald,,,,,,,fac,Thoracic Imaging,,,,,UW,Emeritus,1,1900,1900,2013,fac
+39.1919098,-78.1854324,125 Fox Dr.,Winchester,VA,22601,,,Zheng,,Bin-Bin,,,,,,,fac,,,,,,,,1,1900,1900,2000,fac

@@ -1,0 +1,169 @@
+
+
+body{
+    background-color: white;
+    font-family: 'Roboto Slab', serif;
+    font-size: 48px;
+
+}
+
+#map {height: 650px;
+	  width: 90%;
+	  display: inline-block;
+      font: Helvetica, sans-serif;
+	 }
+
+.legend-control-container {
+    padding: 10px;
+    font: 14px/14px Helvetica, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    width: 300px;
+	height: 270px;
+	text-align: center;
+	opacity: .55;
+	
+}
+
+#attribute-legend {
+	width: 100 px;
+	height: 100 px;
+	opacity: 60%;
+    font-family: 'Vollkorn';
+}
+
+#temporal-legend {
+	font-family: 'Avenir';
+	font-size: 18pt;
+	
+}
+
+.leaflet-popup-content-wrapper {
+    background-color: #e5e5e5;
+    opacity: .8;
+}
+
+.leaflet-popup-tip {
+    background-color: #e5e5e5;
+    opacity: .8;
+}
+
+.leaflet-popup-content p, h3{
+    color: #191900;
+    text-align: left;
+    font-family: 'Roboto Slab';
+    font-size: 12px
+
+}
+
+.range-slider {
+  width: 60%;
+
+}
+
+.sequence-control-container{
+  width: 350px;
+  height: 30px;
+  background-color: rgba(255, 255, 255, 0.3);
+  line-height: 45px;
+  text-align: center;
+
+}
+
+
+#panel{
+    width: 1%;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    font-family: 'Roboto Slab';
+ }
+    
+.Raw {
+	width: 100px;
+	height: 80px;
+	left: 50px;
+	font: 'Avenir';
+	
+}
+
+.Normalized {
+	width: 100px;
+	height: 80px;
+	font: 'Avenir';
+	
+}
+#forward {
+    float: right;
+    width: 45px;
+    height: 30px;
+    vertical-align:center;
+    horizontal: center;
+    
+}
+
+#reverse {
+    float: left;
+    width: 45px;
+    height: 30px;
+	vertical-align: center;
+	horizontal: center;
+}
+
+.header {
+	color: #e5e5e5;
+	background-color: white;
+	padding: 1px;	
+	text-align: center;
+	font-family: 'Roboto Slab';
+	font-size: 18pt;
+	
+}
+
+#textpanel {
+    color: #e5e5e5;
+    width: 20px;
+    padding: 20px;
+    margin: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  	display: inline-block;
+    vertical-align: top;
+    font-family: 'Roboto Slab';
+     
+}
+
+.text {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 390px;
+    margin-right: 0px;
+    margin-left: 0px;
+    font-family: 'Roboto Slab', sans-serif;
+    color: #e5e5e5;;
+    font-size: 14pt;
+    background-color: none;
+    opacity: .8;
+    border-radius: 5px;
+}
+
+
+
+
+.rangeslider,
+input[type='range'] {
+  max-width: 400px;
+}
+
+.rangeslider__handle {
+  border-radius: 22px;
+  min-width: 62px;
+  line-height: 42px;
+  text-align: center;
+  
+  &:after {
+    background: 0;
+  }
+}

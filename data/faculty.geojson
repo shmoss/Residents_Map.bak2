@@ -1,0 +1,1565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "",
+        "info_city": "Ankara",
+        "info_state": "",
+        "info_zip": "",
+        "info_country": "Turkey",
+        "info_notes": "here 2008, Turkey?",
+        "info_lastName": "Arat",
+        "info_maidenName": "",
+        "info_firstName": "Anil",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Neuroradiology",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Department of Radiology, School of Medicine, Hacettepe University",
+        "info_position": "Neuroradiologist",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2008,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8605003,
+          39.9429016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "Insitut fur Rontgendiagnostik, Universitatsklinikum Wurzburg, Oberdurrbacher Str 6",
+        "info_city": "Wuerzburg",
+        "info_state": "Germany",
+        "info_zip": 97080,
+        "info_country": "",
+        "info_notes": "Unsure of how to format the German address",
+        "info_lastName": "Bley",
+        "info_maidenName": "",
+        "info_firstName": "Thorsten",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Thoracic Imaging",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "Visiting faculty",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2009,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95799,
+          49.80591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "700 S Park St",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": 53715,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Block",
+        "info_maidenName": "",
+        "info_firstName": "Jeffrey",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Madison Radiologists",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2016,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.401512,
+          43.059272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "111 Founders Plz ",
+        "info_city": "East Hartford",
+        "info_state": "CT",
+        "info_zip": 6108,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Brown",
+        "info_maidenName": "",
+        "info_firstName": "Jeffrey",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2016,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6588039,
+          41.7638605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "1608 S. 42nd Street",
+        "info_city": "West Des Moines",
+        "info_state": "IA",
+        "info_zip": 50265,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Choi",
+        "info_maidenName": "",
+        "info_firstName": "James",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2005,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.759918,
+          41.546379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "600 Highland Ave",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": 53792,
+        "info_country": "",
+        "info_notes": "emeritus- retired 2012",
+        "info_lastName": "De Smet",
+        "info_maidenName": "",
+        "info_firstName": "Arthur",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Musculoskeletal Imaging and Intervention",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "UW",
+        "info_position": "emeritus",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2012,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4290999,
+          43.076085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2675 North Decatur Road",
+        "info_city": "Decatur",
+        "info_state": "GA",
+        "info_zip": 30033,
+        "info_country": "",
+        "info_notes": "residency and fellowship at MCOW",
+        "info_lastName": "Erickson",
+        "info_maidenName": "",
+        "info_firstName": "Eric",
+        "info_middleName": "Matthew",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Imaging Sciences",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Radiology Associates of DeKalb",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2009,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2831039,
+          33.7912025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "1403 29th Street",
+        "info_city": "Calgary",
+        "info_state": "",
+        "info_zip": 49525,
+        "info_country": "Canada",
+        "info_notes": "",
+        "info_lastName": "Frayne",
+        "info_maidenName": "",
+        "info_firstName": "Richard",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1999,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.131,
+          51.06462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "",
+        "info_city": "L�beck",
+        "info_state": "Schleswig-Holstein",
+        "info_zip": "",
+        "info_country": "Germany",
+        "info_notes": "Visiting Fellow",
+        "info_lastName": "Frydrychowicz",
+        "info_maidenName": "",
+        "info_firstName": "Alex",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Cardiovascular Imaging, Imaging Sciences",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "University Medical Center Schleswig-Holstein � Clinic for Radiology and Nuclear Medicine",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2011,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6808796,
+          53.8662682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "815 Ethan?s Glen Dr.",
+        "info_city": "Knoxville",
+        "info_state": "TN",
+        "info_zip": 37923,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Gould",
+        "info_maidenName": "",
+        "info_firstName": "Howard",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1984,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1121216,
+          35.9316483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "Draaga 3",
+        "info_city": "Oslo ",
+        "info_state": "Norway",
+        "info_zip": "",
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Johansen",
+        "info_maidenName": "",
+        "info_firstName": "Johan",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "Visiting faculty",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1984,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7912199,
+          59.8978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "813 Linden Rd",
+        "info_city": "Hershey",
+        "info_state": "PA",
+        "info_zip": 17033,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Kasales",
+        "info_maidenName": "",
+        "info_firstName": "Claudia",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1990,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6493835,
+          40.2754898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "28 Burr Oak Court",
+        "info_city": "Iowa City",
+        "info_state": "IA",
+        "info_zip": 52246,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Kim",
+        "info_maidenName": "",
+        "info_firstName": "Jinsuh",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 2005,
+        "info_date": 2005,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.590843,
+          41.667098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "",
+        "info_city": "Seoul",
+        "info_state": "",
+        "info_zip": "",
+        "info_country": "Korea",
+        "info_notes": "",
+        "info_lastName": "Kim",
+        "info_maidenName": "",
+        "info_firstName": "Bohyun",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "Visiting faculty",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2000,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0164719,
+          37.5150185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "",
+        "info_city": "Munich",
+        "info_state": "",
+        "info_zip": "",
+        "info_country": "Germany",
+        "info_notes": "former Visiting Associate Professor",
+        "info_lastName": "Kramer",
+        "info_maidenName": "",
+        "info_firstName": "J. Harald",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Cardiovascular Imaging",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Institute for Clinical Radiology, Ludwig-Maximilians-University Hospital Munich",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2013,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5144997,
+          48.1390991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "3474 Swansee Ridge",
+        "info_city": "Sun Prairie",
+        "info_state": "WI",
+        "info_zip": 53593,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Krubsack",
+        "info_maidenName": "",
+        "info_firstName": "Arnold",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Nuclear Medicine",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1993,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2669296,
+          43.1917038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "Fleischmannstra�e 8",
+        "info_city": "17475 Greifswald",
+        "info_state": "",
+        "info_zip": "",
+        "info_country": "Germany",
+        "info_notes": "former Visiting Assistant Professor",
+        "info_lastName": "Kuehn",
+        "info_maidenName": "",
+        "info_firstName": "Jens-Peter",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Cardiovascular Imaging",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "University Medicine Greifswald",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2012,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40253,
+          54.08816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "10472 Monaco Way",
+        "info_city": "Traverse City",
+        "info_state": "MI",
+        "info_zip": 49684,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Norris",
+        "info_maidenName": "",
+        "info_firstName": "Martha",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2001,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.656105,
+          44.8244514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "7425 122nd Place SE",
+        "info_city": "Newcastle",
+        "info_state": "WA",
+        "info_zip": 98056,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Ochsner",
+        "info_maidenName": "",
+        "info_firstName": "Jennifer",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "Radiology",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2002",
+        "info_residencyEnd": "6/30/2006",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Seattle Cancer Care Alliance",
+        "info_position": "Women's Imaging Fellowship",
+        "info_count": 1,
+        "info_resDate": 2006,
+        "info_felDate": 1900,
+        "info_date": 2006,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1776657,
+          47.5356331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "676 N Saint Clair St",
+        "info_city": "Chicago",
+        "info_state": "IL",
+        "info_zip": 60611,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Omary",
+        "info_maidenName": "",
+        "info_firstName": "Reed",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2003,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6231308,
+          41.8944054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "600 Highland Ave",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": 53792,
+        "info_country": "",
+        "info_notes": "emeritus",
+        "info_lastName": "Peters",
+        "info_maidenName": "",
+        "info_firstName": "Mary Ellen",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "UW",
+        "info_position": "Emeritus",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1998,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4290999,
+          43.076085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "3116 W. Sunset Dr.",
+        "info_city": "Carbondale",
+        "info_state": "IL",
+        "info_zip": 62901,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Rayan",
+        "info_maidenName": "",
+        "info_firstName": "Mamdouh",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2003,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2629162,
+          37.7271319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "5713 Margate St.",
+        "info_city": "Fitchburg",
+        "info_state": "WI",
+        "info_zip": 53711,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Reddy",
+        "info_maidenName": "",
+        "info_firstName": "Anne",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2007,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4384689,
+          43.0053329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "600 Highland Avenue",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": 53792,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Roggensack",
+        "info_maidenName": "",
+        "info_firstName": "George",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2007,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4290999,
+          43.076085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "P.O. Box 2297",
+        "info_city": "Ponte Vedra Beach",
+        "info_state": "FL",
+        "info_zip": 32004,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Sackett",
+        "info_maidenName": "",
+        "info_firstName": "Joseph",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1997,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47229,
+          28.4930878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "1397 Weimer Road",
+        "info_city": "Taos",
+        "info_state": "NM",
+        "info_zip": 87571,
+        "info_country": "",
+        "info_notes": "emeritus",
+        "info_lastName": "Selzer",
+        "info_maidenName": "",
+        "info_firstName": "Peter",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Community Radiology",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "UW",
+        "info_position": "emeritus",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2007,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5775719,
+          36.3675141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "11705 Thornhill Rd",
+        "info_city": "Eden Prairie",
+        "info_state": "MN",
+        "info_zip": 55344,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Simpson",
+        "info_maidenName": "",
+        "info_firstName": "Kurt",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1997,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.425827,
+          44.8879776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "4517 North Knollwood Lane",
+        "info_city": "Appleton",
+        "info_state": "WI",
+        "info_zip": 54913,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Smick",
+        "info_maidenName": "",
+        "info_firstName": "James",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1995,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.402832,
+          44.3073959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2094 Meadowsweet Drive",
+        "info_city": "Green Bay",
+        "info_state": "WI",
+        "info_zip": 54313,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Sproat",
+        "info_maidenName": "",
+        "info_firstName": "Ian",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1996,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1125565,
+          44.5062103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "825 Nicollett Mall 1500",
+        "info_city": "Minneapolis",
+        "info_state": "MN",
+        "info_zip": 55042,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Sullivan",
+        "info_maidenName": "",
+        "info_firstName": "James",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2000,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2732544,
+          44.974968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "3617 46th Ave",
+        "info_city": "Minneapolis",
+        "info_state": "MN",
+        "info_zip": 55406,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Taylor",
+        "info_maidenName": "",
+        "info_firstName": "Andrew",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Abdominal Imaging",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2009,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2073212,
+          44.9373245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "33806 N. 69th St.",
+        "info_city": "Scottsdale",
+        "info_state": "AZ",
+        "info_zip": 85262,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Unger",
+        "info_maidenName": "",
+        "info_firstName": "June",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1995,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9326477,
+          33.7921333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "",
+        "info_city": "Marburg",
+        "info_state": "",
+        "info_zip": "",
+        "info_country": "Germany",
+        "info_notes": "",
+        "info_lastName": "Wagner",
+        "info_maidenName": "",
+        "info_firstName": "Hans-Joachim",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "Visiting faculty",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2002,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7775803,
+          50.8055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "P.O. Box 414",
+        "info_city": "Milwaukee",
+        "info_state": "WI",
+        "info_zip": 53201,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Weber",
+        "info_maidenName": "",
+        "info_firstName": "David",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2000,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.009343,
+          43.052495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2213 Cherry St",
+        "info_city": "Toledo",
+        "info_state": "OH",
+        "info_zip": 43608,
+        "info_country": "",
+        "info_notes": "retired",
+        "info_lastName": "Wilson",
+        "info_maidenName": "",
+        "info_firstName": "Michael",
+        "info_middleName": "A",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Nuclear Medicine",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "UW",
+        "info_position": "Retired",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2014,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5420609,
+          41.6686554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "230 Chase Street",
+        "info_city": "Salt Lake City",
+        "info_state": "UT",
+        "info_zip": 84113,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Winter",
+        "info_maidenName": "",
+        "info_firstName": "Thomas",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Abdominal Imaging",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2009,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.83525,
+          40.7641006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "600 Highland Ave",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": 53792,
+        "info_country": "",
+        "info_notes": "emeritus",
+        "info_lastName": "Wojtowycz",
+        "info_maidenName": "",
+        "info_firstName": "Myron",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Interventional Radiology",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "UW",
+        "info_position": "Emeritus",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2007,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4290999,
+          43.076085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "600 Highland Ave",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": 53792,
+        "info_country": "",
+        "info_notes": "emeritus",
+        "info_lastName": "Yandow",
+        "info_maidenName": "",
+        "info_firstName": "Donald",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "Thoracic Imaging",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "UW",
+        "info_position": "Emeritus",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2013,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4290999,
+          43.076085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "125 Fox Dr.",
+        "info_city": "Winchester",
+        "info_state": "VA",
+        "info_zip": 22601,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Zheng",
+        "info_maidenName": "",
+        "info_firstName": "Bin-Bin",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "fac",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2000,
+        "info_status": "fac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1854324,
+          39.1919098
+        ]
+      }
+    }
+  ]
+}

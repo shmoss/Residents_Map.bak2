@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "United States",
+        "GE_Count": 347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9573364,
+          39.4432564
+        ]
+      }
+    }
+  ]
+}

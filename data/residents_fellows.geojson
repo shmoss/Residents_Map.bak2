@@ -1,0 +1,1965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "1600 SW Archer Rd",
+        "info_city": "Gainesville",
+        "info_state": "FL",
+        "info_zip": 32610,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Deitte",
+        "info_maidenName": "",
+        "info_firstName": "Lori",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1990,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3484421,
+          29.6415482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "333 N Commercial St",
+        "info_city": "Neenah",
+        "info_state": "WI",
+        "info_zip": 54956,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Alsheik",
+        "info_maidenName": "",
+        "info_firstName": "Nila",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Neuroradiology",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2006",
+        "info_residencyEnd": "6/30/2010",
+        "info_fellowshipBegin": "7/1/2010",
+        "info_fellowshipEnd": "6/30/2011",
+        "info_institution": "Fox Valley Radiology",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2010,
+        "info_felDate": 2011,
+        "info_date": 2011,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4566623,
+          44.1916995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "444 Montgomery St",
+        "info_city": "Chicopee",
+        "info_state": "MA",
+        "info_zip": 1020,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Austin",
+        "info_maidenName": "",
+        "info_firstName": "Charles",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Riverbend Medical Group",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1982,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5863695,
+          42.1716468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "190 E Bannock St.",
+        "info_city": "Boise",
+        "info_state": "ID",
+        "info_zip": 83712,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Boyce",
+        "info_maidenName": "",
+        "info_firstName": "Cody",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2005",
+        "info_residencyEnd": "6/30/2009",
+        "info_fellowshipBegin": "7/1/2009",
+        "info_fellowshipEnd": "7/1/2010",
+        "info_institution": "Boise Radiology Group",
+        "info_position": "Body Imaging",
+        "info_count": 1,
+        "info_resDate": 2009,
+        "info_felDate": 2010,
+        "info_date": 2010,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1925888,
+          43.6124039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "9200 W Wisconsin Ave",
+        "info_city": "Milwaukee",
+        "info_state": "WI",
+        "info_zip": 53226,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Brown",
+        "info_maidenName": "",
+        "info_firstName": "W. Douglas",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1991,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0264893,
+          43.0386734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "3301 CRANBERRY BLVD",
+        "info_city": "Weston",
+        "info_state": "WI",
+        "info_zip": 54476,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Currie",
+        "info_maidenName": "",
+        "info_firstName": "Jonathan",
+        "info_middleName": "W",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Musculoskeletal Imaging and Intervention",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2007",
+        "info_residencyEnd": "6/30/2011",
+        "info_fellowshipBegin": "7/1/2011",
+        "info_fellowshipEnd": "6/30/2012",
+        "info_institution": "Ministry Medical Group",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2011,
+        "info_felDate": 2012,
+        "info_date": 2012,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5815848,
+          44.8911855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "200 1st St SW",
+        "info_city": "Rochester",
+        "info_state": "MN",
+        "info_zip": 55905,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Delone",
+        "info_maidenName": "",
+        "info_firstName": "David",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1999,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.466629,
+          44.0221291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "8791 Conference Dr",
+        "info_city": "Fort Meyers",
+        "info_state": "FL",
+        "info_zip": 33919,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Duffek",
+        "info_maidenName": "",
+        "info_firstName": "Cory",
+        "info_middleName": "C",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Neuroradiology",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2005",
+        "info_residencyEnd": "6/30/2009",
+        "info_fellowshipBegin": "7/1/2009",
+        "info_fellowshipEnd": "6/30/2010",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2009,
+        "info_felDate": 2010,
+        "info_date": 2010,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9002304,
+          26.5548592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "5252 School House Road",
+        "info_city": "Bettendorff",
+        "info_state": "IA",
+        "info_zip": 52722,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Durick",
+        "info_maidenName": "",
+        "info_firstName": "Nathan",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2003",
+        "info_residencyEnd": "6/30/2007",
+        "info_fellowshipBegin": "7/1/2007",
+        "info_fellowshipEnd": "6/30/2008",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2007,
+        "info_felDate": 2008,
+        "info_date": 2008,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4501801,
+          41.5751762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "600 Highland Ave",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": "",
+        "info_country": "",
+        "info_notes": "93-'95",
+        "info_lastName": "Gallagher",
+        "info_maidenName": "",
+        "info_firstName": "Catherine",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "University of Wisconsin Department of Neurology",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1995,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4290999,
+          43.076085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "6522 Odell St",
+        "info_city": "St. Louis",
+        "info_state": "MO",
+        "info_zip": 63139,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Garrett",
+        "info_maidenName": "",
+        "info_firstName": "Robert",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2004",
+        "info_residencyEnd": "6/30/2008",
+        "info_fellowshipBegin": "7/1/2008",
+        "info_fellowshipEnd": "6/30/2009",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2008,
+        "info_felDate": 2009,
+        "info_date": 2009,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2991028,
+          38.6094971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2187 New Pinery Rd",
+        "info_city": "Portage",
+        "info_state": "WI",
+        "info_zip": 53901,
+        "info_country": "",
+        "info_notes": "cannot locate, NPI not updated since 2012, no forwarding info in TERMED",
+        "info_lastName": "Hain",
+        "info_maidenName": "",
+        "info_firstName": "Kendra",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Musculoskeletal Imaging and Intervention",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "6/24/2006",
+        "info_residencyEnd": "6/30/2011",
+        "info_fellowshipBegin": "7/1/2011",
+        "info_fellowshipEnd": "6/30/2012",
+        "info_institution": "Portage Radiology",
+        "info_position": "Private Practice, General Radiology",
+        "info_count": 1,
+        "info_resDate": 2011,
+        "info_felDate": 2012,
+        "info_date": 2012,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4680724,
+          43.5564264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2941 South Ridge Rd",
+        "info_city": "Green Bay",
+        "info_state": "WI",
+        "info_zip": 54304,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Hanson",
+        "info_maidenName": "",
+        "info_firstName": "James",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Musculoskeletal Imaging and Intervention",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2007",
+        "info_residencyEnd": "6/30/2012",
+        "info_fellowshipBegin": "7/1/2012",
+        "info_fellowshipEnd": "6/30/2013",
+        "info_institution": "Green Bay Radiology",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2012,
+        "info_felDate": 2013,
+        "info_date": 2013,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0866928,
+          44.4722366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2941 South Ridge Rd",
+        "info_city": "Green Bay",
+        "info_state": "WI",
+        "info_zip": 54304,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Hanson",
+        "info_maidenName": "",
+        "info_firstName": "Meghan",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "6/24/2006",
+        "info_residencyEnd": "6/30/2011",
+        "info_fellowshipBegin": "7/1/2011",
+        "info_fellowshipEnd": "6/30/2012",
+        "info_institution": "Green Bay Radiology",
+        "info_position": "General Radiology",
+        "info_count": 1,
+        "info_resDate": 2011,
+        "info_felDate": 2012,
+        "info_date": 2012,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0866928,
+          44.4722366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "1990 Connecticut Ave S",
+        "info_city": "Sartell",
+        "info_state": "MN",
+        "info_zip": 56377,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Hartman",
+        "info_maidenName": "",
+        "info_firstName": "Leslie",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Neuroradiology",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2008",
+        "info_residencyEnd": "6/30/2012",
+        "info_fellowshipBegin": "7/1/2012",
+        "info_fellowshipEnd": "6/30/2014",
+        "info_institution": "CentraCare Health, Regional Diagnostic Radiology",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2012,
+        "info_felDate": 2014,
+        "info_date": 2014,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2015302,
+          45.5935353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "4501 Altura Place NE",
+        "info_city": "Albuquerque",
+        "info_state": "NM",
+        "info_zip": 87110,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Hebert",
+        "info_maidenName": "",
+        "info_firstName": "Jeffrey",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "MSK",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2001",
+        "info_residencyEnd": "6/30/2006",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2006,
+        "info_felDate": 1900,
+        "info_date": 2006,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5949707,
+          35.0959587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "5510 Harney St.",
+        "info_city": "Omaha",
+        "info_state": "NE",
+        "info_zip": 68132,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Helvey",
+        "info_maidenName": "",
+        "info_firstName": "Jason",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Neuro",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2001",
+        "info_residencyEnd": "6/30/2006",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Radiology Associates, P.C.",
+        "info_position": "Private Practice",
+        "info_count": 1,
+        "info_resDate": 2006,
+        "info_felDate": 1900,
+        "info_date": 2006,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.999061,
+          41.257198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "4975 E. 12th Drive",
+        "info_city": "Bellingham",
+        "info_state": "WA",
+        "info_zip": 98226,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Hughes",
+        "info_maidenName": "",
+        "info_firstName": "Robert",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Neuro",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/1999",
+        "info_residencyEnd": "6/30/2004",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Northwest Radiologists",
+        "info_position": "Private Practice",
+        "info_count": 1,
+        "info_resDate": 2004,
+        "info_felDate": 1900,
+        "info_date": 2004,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4240952,
+          48.8215027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "6567 Washington Circle",
+        "info_city": "Wauwatosa",
+        "info_state": "WI",
+        "info_zip": 53526,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Keller",
+        "info_maidenName": "",
+        "info_firstName": "Patrick",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "MSK",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/1999",
+        "info_residencyEnd": "6/30/2004",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "St. Joseph's Hospital",
+        "info_position": "Radiologist",
+        "info_count": 1,
+        "info_resDate": 2004,
+        "info_felDate": 1900,
+        "info_date": 2004,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9938126,
+          43.0525208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "P.O. Box 44428",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": 53744,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Klein",
+        "info_maidenName": "",
+        "info_firstName": "Jeffrey",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2008",
+        "info_residencyEnd": "6/30/2012",
+        "info_fellowshipBegin": "7/1/2012",
+        "info_fellowshipEnd": "6/30/2013",
+        "info_institution": "Madison Radiologists",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2012,
+        "info_felDate": 2013,
+        "info_date": 2013,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.415066,
+          43.065104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "3547 Humboldt Ave S",
+        "info_city": "Minneapolis",
+        "info_state": "MN",
+        "info_zip": 55408,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Lee",
+        "info_maidenName": "",
+        "info_firstName": "Andrew",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "6/24/2002",
+        "info_residencyEnd": "6/30/2007",
+        "info_fellowshipBegin": "7/1/2007",
+        "info_fellowshipEnd": "6/30/2008",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2007,
+        "info_felDate": 2008,
+        "info_date": 2008,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.30056,
+          44.9380913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "1000 Mineral Point Ave.",
+        "info_city": "Janesville",
+        "info_state": "WI",
+        "info_zip": 53548,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Lee",
+        "info_maidenName": "",
+        "info_firstName": "Paul",
+        "info_middleName": "John",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Cardiovascular Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2009",
+        "info_residencyEnd": "6/30/2013",
+        "info_fellowshipBegin": "7/1/2013",
+        "info_fellowshipEnd": "6/30/2014",
+        "info_institution": "Mercy Hospital and Trauma Center",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2013,
+        "info_felDate": 2014,
+        "info_date": 2014,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0325084,
+          42.6868106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "476 Rushmore Lane",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": 53711,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Lum",
+        "info_maidenName": "",
+        "info_firstName": "Darren",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "MR, Cardiovascular Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2003",
+        "info_residencyEnd": "6/30/2008",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2008,
+        "info_felDate": 1900,
+        "info_date": 2008,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4657898,
+          43.0573044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "334 Glenway Street",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": 53705,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "McCue",
+        "info_maidenName": "",
+        "info_firstName": "Jeremy",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Neuro",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/1999",
+        "info_residencyEnd": "6/30/2006",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2006,
+        "info_felDate": 1900,
+        "info_date": 2006,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4391403,
+          43.0613136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "800 W. 5th Ave",
+        "info_city": "Spokane",
+        "info_state": "WA",
+        "info_zip": 99204,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "McEvoy",
+        "info_maidenName": "",
+        "info_firstName": "Jennifer",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Musculoskeletal Imaging and Intervention",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2007",
+        "info_residencyEnd": "6/30/2011",
+        "info_fellowshipBegin": "7/1/2011",
+        "info_fellowshipEnd": "6/30/2012",
+        "info_institution": "Deaconess Hospital, Rockwood Health System",
+        "info_position": "Diagnostic Radiology",
+        "info_count": 1,
+        "info_resDate": 2011,
+        "info_felDate": 2012,
+        "info_date": 2012,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4232941,
+          47.6519051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "5412 W. Stonebridge Ct.",
+        "info_city": "Peoria",
+        "info_state": "IL",
+        "info_zip": 61615,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Nathan",
+        "info_maidenName": "",
+        "info_firstName": "David",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "MSK",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2000",
+        "info_residencyEnd": "6/30/2005",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Central Illinois Radiological Associates",
+        "info_position": "Private Practice",
+        "info_count": 1,
+        "info_resDate": 2005,
+        "info_felDate": 1900,
+        "info_date": 2005,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6776657,
+          40.7668343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "5915 Mission Trail",
+        "info_city": "Granger",
+        "info_state": "IN",
+        "info_zip": 46530,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Nguyen",
+        "info_maidenName": "",
+        "info_firstName": "Vu",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "MSK",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2000",
+        "info_residencyEnd": "6/30/2005",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2005,
+        "info_felDate": 1900,
+        "info_date": 2005,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1684497,
+          41.7145494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "500 W. Brown Deer Road",
+        "info_city": "Bayside",
+        "info_state": "WI",
+        "info_zip": 53217,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "O'Brien",
+        "info_maidenName": "",
+        "info_firstName": "Michael",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Musculoskeletal Imaging and Intervention",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2005",
+        "info_residencyEnd": "6/30/2009",
+        "info_fellowshipBegin": "7/1/2009",
+        "info_fellowshipEnd": "6/30/2010",
+        "info_institution": "Wisconsin Radiology Specialists",
+        "info_position": "Musculoskeletal",
+        "info_count": 1,
+        "info_resDate": 2009,
+        "info_felDate": 2010,
+        "info_date": 2010,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9144745,
+          43.1777153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "7753 Mary Ellen Pl",
+        "info_city": "Wauwatosa",
+        "info_state": "WI",
+        "info_zip": 32176,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Olson",
+        "info_maidenName": "",
+        "info_firstName": "Erik",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2006",
+        "info_residencyEnd": "6/30/2010",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2010,
+        "info_felDate": 1900,
+        "info_date": 2010,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0101013,
+          43.0365562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "N2101 Brecken Ridge",
+        "info_city": "LaCrosse",
+        "info_state": "WI",
+        "info_zip": 54601,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Riherd",
+        "info_maidenName": "",
+        "info_firstName": "Jody",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2004",
+        "info_residencyEnd": "6/30/2008",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Gundersen-Lutheran Hopital",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2008,
+        "info_felDate": 1900,
+        "info_date": 2008,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.100402,
+          43.797958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "5509 Mohawk Rd",
+        "info_city": "Rhinelander",
+        "info_state": "WI",
+        "info_zip": 54501,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Rutkowski",
+        "info_maidenName": "",
+        "info_firstName": "Anthony",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Musculoskeletal Imaging and Intervention",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "6/24/2004",
+        "info_residencyEnd": "6/30/2009",
+        "info_fellowshipBegin": "7/1/2009",
+        "info_fellowshipEnd": "6/30/2010",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2009,
+        "info_felDate": 2010,
+        "info_date": 2010,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4307861,
+          45.6577187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "1840 Johnson Ct.",
+        "info_city": "Stillwater",
+        "info_state": "MN",
+        "info_zip": 55082,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Sanford",
+        "info_maidenName": "",
+        "info_firstName": "Matthew",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "MSK",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2002",
+        "info_residencyEnd": "6/30/2007",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "St. Paul Radiology",
+        "info_position": "Private Practice",
+        "info_count": 1,
+        "info_resDate": 2007,
+        "info_felDate": 1900,
+        "info_date": 2007,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8301239,
+          45.0736771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "4525 Park Commons Drive",
+        "info_city": "St. Louis Park",
+        "info_state": "MN",
+        "info_zip": 55416,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Schumacher",
+        "info_maidenName": "",
+        "info_firstName": "Clark",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "DVI, Interventional Radiology",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2003",
+        "info_residencyEnd": "6/30/2007",
+        "info_fellowshipBegin": "7/1/2007",
+        "info_fellowshipEnd": "6/30/2008",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2007,
+        "info_felDate": 2008,
+        "info_date": 2008,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3377762,
+          44.9345512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "21 N Butler Street",
+        "info_city": "Madison",
+        "info_state": "WI",
+        "info_zip": 53703,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Shannahan",
+        "info_maidenName": "",
+        "info_firstName": "Sean",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/1998",
+        "info_residencyEnd": "6/30/2003",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "St. Mary's / Dean Clinic",
+        "info_position": "Private Practice",
+        "info_count": 1,
+        "info_resDate": 2003,
+        "info_felDate": 1900,
+        "info_date": 2003,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3815613,
+          43.0773735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2881 Woods End Road",
+        "info_city": "Rhinelander",
+        "info_state": "WI",
+        "info_zip": 54504,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Shinners",
+        "info_maidenName": "",
+        "info_firstName": "Theodore",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "6/24/1999",
+        "info_residencyEnd": "6/30/2005",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Ministry Health-St. Mary?s Hospital",
+        "info_position": "Private Practice",
+        "info_count": 1,
+        "info_resDate": 2005,
+        "info_felDate": 1900,
+        "info_date": 2005,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4113083,
+          45.6383896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2401 Gillham Rd ",
+        "info_city": "Kansas City",
+        "info_state": "MO",
+        "info_zip": 64108,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Shore",
+        "info_maidenName": "",
+        "info_firstName": "Richard",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1981,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5773621,
+          39.0837517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2208 Irving Avenue South",
+        "info_city": "Minneapolis",
+        "info_state": "MN",
+        "info_zip": 55408,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Sidney",
+        "info_maidenName": "",
+        "info_firstName": "Scott",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "MSK",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2001",
+        "info_residencyEnd": "6/30/2007",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2007,
+        "info_felDate": 1900,
+        "info_date": 2007,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3001328,
+          44.9605103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "920 Country Club Rd ",
+        "info_city": "Eugene",
+        "info_state": "OR",
+        "info_zip": 97401,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Simard",
+        "info_maidenName": "",
+        "info_firstName": "Marissa",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "6/2/2008",
+        "info_residencyEnd": "6/30/2012",
+        "info_fellowshipBegin": "7/1/2012",
+        "info_fellowshipEnd": "6/30/2013",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2012,
+        "info_felDate": 2013,
+        "info_date": 2013,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0976944,
+          44.0660133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2941 South Ridge Road",
+        "info_city": "Green Bay",
+        "info_state": "WI",
+        "info_zip": 54304,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Smyth",
+        "info_maidenName": "",
+        "info_firstName": "Ronan",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Green Bay Radiology",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1998,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0866928,
+          44.4722366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2622 Old Hickory Way",
+        "info_city": "Boise",
+        "info_state": "ID",
+        "info_zip": 83716,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Sonntag",
+        "info_maidenName": "",
+        "info_firstName": "P. David",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Interventional Radiology",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2007",
+        "info_residencyEnd": "6/30/2012",
+        "info_fellowshipBegin": "7/1/2012",
+        "info_fellowshipEnd": "6/30/2013",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2012,
+        "info_felDate": 2013,
+        "info_date": 2013,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1313553,
+          43.5783463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "1900 South Ave",
+        "info_city": "LaCrosse",
+        "info_state": "WI",
+        "info_zip": 54601,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Stanton",
+        "info_maidenName": "",
+        "info_firstName": "Paul",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2006",
+        "info_residencyEnd": "6/30/2010",
+        "info_fellowshipBegin": "7/1/2010",
+        "info_fellowshipEnd": "6/30/2011",
+        "info_institution": "Gundersen Health",
+        "info_position": "Radiology",
+        "info_count": 1,
+        "info_resDate": 2010,
+        "info_felDate": 2011,
+        "info_date": 2011,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2460269,
+          43.7945656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2941 South Ridge Rd",
+        "info_city": "Green Bay",
+        "info_state": "WI",
+        "info_zip": 54304,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Tambeaux",
+        "info_maidenName": "",
+        "info_firstName": "Robert",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Green Bay Radiology",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1996,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0866928,
+          44.4722366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "W187 N4975 Heron Court",
+        "info_city": "Menomonee Falls",
+        "info_state": "WI",
+        "info_zip": "",
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Ullrick",
+        "info_maidenName": "",
+        "info_firstName": "Steven",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Musculoskeletal Imaging and Intervention",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2004",
+        "info_residencyEnd": "6/30/2008",
+        "info_fellowshipBegin": "7/1/2008",
+        "info_fellowshipEnd": "6/30/2009",
+        "info_institution": "",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 2008,
+        "info_felDate": 2009,
+        "info_date": 2009,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.144561,
+          43.108127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "4801 Lang Ave NE",
+        "info_city": "Albuquerque",
+        "info_state": "NM",
+        "info_zip": 87109,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Webb",
+        "info_maidenName": "",
+        "info_firstName": "Heather",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2007",
+        "info_residencyEnd": "6/30/2011",
+        "info_fellowshipBegin": "8/18/2011",
+        "info_fellowshipEnd": "6/30/2012",
+        "info_institution": "Zia Diagnostic Imaging",
+        "info_position": "Radiologist",
+        "info_count": 1,
+        "info_resDate": 2011,
+        "info_felDate": 2012,
+        "info_date": 2012,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5914459,
+          35.1737518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2941 South Ridge Rd",
+        "info_city": "Green Bay",
+        "info_state": "WI",
+        "info_zip": 54304,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Zarvan",
+        "info_maidenName": "",
+        "info_firstName": "Nami",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Green Bay Radiology",
+        "info_position": "",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 1997,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0866928,
+          44.4722366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "1000 N Oak Ave",
+        "info_city": "Marshfield",
+        "info_state": "WI",
+        "info_zip": 54449,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Zelinski",
+        "info_maidenName": "",
+        "info_firstName": "Nathan",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Abdominal Imaging",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2006",
+        "info_residencyEnd": "6/30/2010",
+        "info_fellowshipBegin": "7/1/2010",
+        "info_fellowshipEnd": "6/30/2011",
+        "info_institution": "Marshfield Clinic",
+        "info_position": "Radiology Body Imaging",
+        "info_count": 1,
+        "info_resDate": 2010,
+        "info_felDate": 2011,
+        "info_date": 2011,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.177948,
+          44.6785164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "201 W Northland Ave",
+        "info_city": "Appleton",
+        "info_state": "WI",
+        "info_zip": 54911,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Ziegert",
+        "info_maidenName": "",
+        "info_firstName": "Andrew",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Musculoskeletal Imaging and Intervention",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "6/24/2002",
+        "info_residencyEnd": "6/30/2007",
+        "info_fellowshipBegin": "7/1/2007",
+        "info_fellowshipEnd": "6/30/2008",
+        "info_institution": "Center for Diagnostic Imaging in Wisconsin",
+        "info_position": "Musculoskeletal Radiologist",
+        "info_count": 1,
+        "info_resDate": 2007,
+        "info_felDate": 2008,
+        "info_date": 2008,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4078598,
+          44.2867737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "801 Ostrum Street",
+        "info_city": "Bethlehem",
+        "info_state": "PA",
+        "info_zip": 18015,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Stanley",
+        "info_maidenName": "",
+        "info_firstName": "Edwin",
+        "info_middleName": "C",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Vascular and Interventional Radiology",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/2009",
+        "info_residencyEnd": "6/30/2013",
+        "info_fellowshipBegin": "7/1/2013",
+        "info_fellowshipEnd": "6/30/2014",
+        "info_institution": "St. Luke's University Hospital",
+        "info_position": "Interventional Radiology Provider",
+        "info_count": 1,
+        "info_resDate": 2013,
+        "info_felDate": 2014,
+        "info_date": 2014,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3935623,
+          40.6099243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "2000 Spring Road",
+        "info_city": "Hinsdale",
+        "info_state": "IL",
+        "info_zip": 60523,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Rastogi",
+        "info_maidenName": "",
+        "info_firstName": "Ankit",
+        "info_middleName": "K",
+        "info_intern": "x",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "",
+        "info_residencyEnd": "",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Adventist Hospital System",
+        "info_position": "Teleradiology",
+        "info_count": 1,
+        "info_resDate": 1900,
+        "info_felDate": 1900,
+        "info_date": 2014,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94832,
+          41.8514306
+        ]
+      }
+    }
+  ]
+}

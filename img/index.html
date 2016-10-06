@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title></title>
+
+		<!--put your external stylesheet links here-->
+		<link rel="stylesheet" href="index_files/leaflet.css">
+		<link rel="stylesheet" href="index_files/style.css">
+		<!--[if IE<9]>
+			<link rel="stylesheet" href="css/style.ie.css">
+		<![endif]-->
+	</head>
+
+	<body>
+		hello world!
+		<!--put your initial page content here-->
+		 <div tabindex="0" style="position: relative;" class="leaflet-container leaflet-retina leaflet-fade-anim" id="map"><div style="transform: translate(0px, 0px);" class="leaflet-map-pane"><div class="leaflet-tile-pane"><div class="leaflet-layer"><div class="leaflet-tile-container"></div><div class="leaflet-tile-container leaflet-zoom-animated"><img src="index_files/11_002.png" style="height: 256px; width: 256px; transform: translate(284px, 15px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/11_006.png" style="height: 256px; width: 256px; transform: translate(540px, 15px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/12_003.png" style="height: 256px; width: 256px; transform: translate(284px, 271px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/12_006.png" style="height: 256px; width: 256px; transform: translate(540px, 271px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/10_005.png" style="height: 256px; width: 256px; transform: translate(284px, -241px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/10_004.png" style="height: 256px; width: 256px; transform: translate(540px, -241px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/11_004.png" style="height: 256px; width: 256px; transform: translate(28px, 15px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/11_005.png" style="height: 256px; width: 256px; transform: translate(796px, 15px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/12_005.png" style="height: 256px; width: 256px; transform: translate(28px, 271px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/12.png" style="height: 256px; width: 256px; transform: translate(796px, 271px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/13_004.png" style="height: 256px; width: 256px; transform: translate(284px, 527px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/13_002.png" style="height: 256px; width: 256px; transform: translate(540px, 527px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/10.png" style="height: 256px; width: 256px; transform: translate(28px, -241px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/10_002.png" style="height: 256px; width: 256px; transform: translate(796px, -241px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/13_005.png" style="height: 256px; width: 256px; transform: translate(28px, 527px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/13_006.png" style="height: 256px; width: 256px; transform: translate(796px, 527px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/11.png" style="height: 256px; width: 256px; transform: translate(-228px, 15px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/11_003.png" style="height: 256px; width: 256px; transform: translate(1052px, 15px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/12_004.png" style="height: 256px; width: 256px; transform: translate(-228px, 271px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/12_002.png" style="height: 256px; width: 256px; transform: translate(1052px, 271px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/10_006.png" style="height: 256px; width: 256px; transform: translate(-228px, -241px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/10_003.png" style="height: 256px; width: 256px; transform: translate(1052px, -241px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/13_003.png" style="height: 256px; width: 256px; transform: translate(-228px, 527px);" class="leaflet-tile leaflet-tile-loaded"><img src="index_files/13.png" style="height: 256px; width: 256px; transform: translate(1052px, 527px);" class="leaflet-tile leaflet-tile-loaded"></div></div></div><div class="leaflet-objects-pane"><div class="leaflet-shadow-pane"></div><div class="leaflet-overlay-pane"></div><div class="leaflet-marker-pane"></div><div class="leaflet-popup-pane"></div></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a title="Zoom in" href="#" class="leaflet-control-zoom-in">+</a><a title="Zoom out" href="#" class="leaflet-control-zoom-out">-</a></div></div><div class="leaflet-top leaflet-right"></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="legend-control-container leaflet-control"><div id="temporal-legend">Homicides in 2001</div><svg id="attribute-legend" width="250px" height="200px"></svg></div><div class="leaflet-control-attribution leaflet-control"><a href="http://leafletjs.com/" title="A JS library for interactive maps">Leaflet</a> | © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="http://cartodb.com/attributions">CartoDB</a></div></div></div></div>
+		 <div id="panel"><input step="1" value="0" min="0" max="6" class="range-slider" type="range"><button class="skip" id="reverse">Reverse</button><button class="skip" id="forward">Skip</button></div>
+		 <div id="text" align="left"><h5>Which Midwestern cities REALLY have the highest murder rates? </h5><p>
+ It's no secret that many Midwestern cities have fallen on hard times.  
+Beginning in the 1970's, liberalized trade policies have drained 
+metropolitan regions of their manufacturing base, creating urban blight 
+across the Midwest.  Many of these cities has seen a corresponding 
+increase in homicides. <br><br> This interactive map depicts yearly 
+homicide totals (2001-2013) for the 15 largest Midwestern cities.  
+Homicides are represented in two different ways: a rate per 100,000 
+people and raw totals. as both a yearly rate per 100,000 people and raw 
+totalsacross the 15 largest cities in the Midwestsexamines the top 20 
+metropnited States of America and compares <b>assault</b> cases in each city, from 2000 - 2012. <strong>Assault</strong>,
+ is typically defined as the intentional attempt to injure another. The 
+change in assaults per year can help us examine how safe cities are 
+getting.<br><br>This data was obtained from <a href="http://www.city-data.com/crime">City Data</a> and is adjusted to assaults per 100,000 people for 2000 - 2012. <br></p></div>			
+		 <div id="buttons" align="left">
+            <a href="#" id="Normalized">Normalized</a>
+            <a href="#" id="Raw">Raw</a>
+            </div>
+            
+		 <svg id="Layer_1" width="180px" height="180px">
+         	<circle fill="#ff7900" fill-opacity="0.8" stroke="#000000" stroke-miterlimit="10" cx="90" cy="90.001" r="89.5"></circle>
+    	 </svg>   
+    	 <div id="options">
+			<div id="dropdown">
+				<p>Select Variable: </p>
+				<div>
+					<select id="selector">
+						<option value="Normalized">% homicides</option>
+						<option selected="selected" value="Rww"># homicides</option>
+					</select>
+				</div>
+			</div>      
+		<!--you can also use this space for internal scripts or stylesheets;
+		place these within <script> or <style> tags-->
+		<!--
+		<!--put your external script links here-->
+		<script type="text/javascript" src="index_files/leaflet.js"></script>
+		<script type="text/javascript" src="index_files/leaflet-src.js"></script>
+		<script type="text/javascript" src="index_files/jquery-1.js"></script>
+		<script type="text/javascript" src="index_files/tutorials.js"></script>
+		<!--<script type="text/javascript" src="js/geojson.js"></script>-->
+		<script type="text/javascript" src="index_files/main.js"></script>
+	
+
+</div></body></html>

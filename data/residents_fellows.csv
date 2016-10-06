@@ -1,0 +1,50 @@
+info_latitude,info_longitude,info_address,info_city,info_state,info_zip,info_country,info_notes,info_lastName,info_maidenName,info_firstName,info_middleName,info_intern,info_resident,info_fellow,info_fellowshipSection,info_honoraryFellow,info_formerFaculty,info_facultySection,info_residencyBegin,info_residencyEnd,info_fellowshipBegin,info_fellowshipEnd,info_institution,info_position,info_count,info_resDate,info_felDate,info_date,info_status
+29.6415482,-82.3484421,1600 SW Archer Rd,Gainesville,FL,32610,,,Deitte,,Lori,,,r,,,,,,,,,,,,1,1900,1900,1990,rf
+44.1916995,-88.4566623,333 N Commercial St,Neenah,WI,54956,,,Alsheik,,Nila,,,r,f,Neuroradiology,,,,7/1/2006,6/30/2010,7/1/2010,6/30/2011,Fox Valley Radiology,,1,2010,2011,2011,rf
+42.1716468,-72.5863695,444 Montgomery St,Chicopee,MA,1020,,,Austin,,Charles,,,r,f,,,,,,,,,Riverbend Medical Group,,1,1900,1900,1982,rf
+43.6124039,-116.1925888,190 E Bannock St.,Boise,ID,83712,,,Boyce,,Cody,,,r,f,Abdominal Imaging,,,,7/1/2005,6/30/2009,7/1/2009,7/1/2010,Boise Radiology Group,Body Imaging,1,2009,2010,2010,rf
+43.0386734,-88.0264893,9200 W Wisconsin Ave,Milwaukee,WI,53226,,,Brown,,W. Douglas,,,r,f,,,,,,,,,,,1,1900,1900,1991,rf
+44.8911855,-89.5815848,3301 CRANBERRY BLVD,Weston,WI,54476,,,Currie,,Jonathan,W,,r,f,Musculoskeletal Imaging and Intervention,,,,7/1/2007,6/30/2011,7/1/2011,6/30/2012,Ministry Medical Group,,1,2011,2012,2012,rf
+44.0221291,-92.466629,200 1st St SW,Rochester,MN,55905,,,Delone,,David,,,r,f,,,,,,,,,,,1,1900,1900,1999,rf
+26.5548592,-81.9002304,8791 Conference Dr,Fort Meyers,FL,33919,,,Duffek,,Cory,C,,r,f,Neuroradiology,,,,7/1/2005,6/30/2009,7/1/2009,6/30/2010,,,1,2009,2010,2010,rf
+41.5751762,-90.4501801,5252 School House Road,Bettendorff,IA,52722,,,Durick,,Nathan,,,r,f,Abdominal Imaging,,,,7/1/2003,6/30/2007,7/1/2007,6/30/2008,,,1,2007,2008,2008,rf
+43.076085,-89.4290999,600 Highland Ave,Madison,WI,,,93-'95,Gallagher,,Catherine,,,r,f,,,,,,,,,University of Wisconsin Department of Neurology,,1,1900,1900,1995,rf
+38.6094971,-90.2991028,6522 Odell St,St. Louis,MO,63139,,,Garrett,,Robert,,,r,f,Abdominal Imaging,,,,7/1/2004,6/30/2008,7/1/2008,6/30/2009,,,1,2008,2009,2009,rf
+43.5564264,-89.4680724,2187 New Pinery Rd,Portage,WI,53901,,"cannot locate, NPI not updated since 2012, no forwarding info in TERMED",Hain,,Kendra,,,r,f,Musculoskeletal Imaging and Intervention,,,,6/24/2006,6/30/2011,7/1/2011,6/30/2012,Portage Radiology,"Private Practice, General Radiology",1,2011,2012,2012,rf
+44.4722366,-88.0866928,2941 South Ridge Rd,Green Bay,WI,54304,,,Hanson,,James,,,r,f,Musculoskeletal Imaging and Intervention,,,,7/1/2007,6/30/2012,7/1/2012,6/30/2013,Green Bay Radiology,,1,2012,2013,2013,rf
+44.4722366,-88.0866928,2941 South Ridge Rd,Green Bay,WI,54304,,,Hanson,,Meghan,,,r,f,Abdominal Imaging,,,,6/24/2006,6/30/2011,7/1/2011,6/30/2012,Green Bay Radiology,General Radiology,1,2011,2012,2012,rf
+45.5935353,-94.2015302,1990 Connecticut Ave S,Sartell,MN,56377,,,Hartman,,Leslie,,,r,f,Neuroradiology,,,,7/1/2008,6/30/2012,7/1/2012,6/30/2014,"CentraCare Health, Regional Diagnostic Radiology",,1,2012,2014,2014,rf
+35.0959587,-106.5949707,4501 Altura Place NE,Albuquerque,NM,87110,,,Hebert,,Jeffrey,,,r,f,MSK,,,,7/1/2001,6/30/2006,,,,,1,2006,1900,2006,rf
+41.257198,-95.999061,5510 Harney St.,Omaha,NE,68132,,,Helvey,,Jason,,,r,f,Neuro,,,,7/1/2001,6/30/2006,,,"Radiology Associates, P.C.",Private Practice,1,2006,1900,2006,rf
+48.8215027,-122.4240952,4975 E. 12th Drive,Bellingham,WA,98226,,,Hughes,,Robert,,,r,f,Neuro,,,,7/1/1999,6/30/2004,,,Northwest Radiologists,Private Practice,1,2004,1900,2004,rf
+43.0525208,-87.9938126,6567 Washington Circle,Wauwatosa,WI,53526,,,Keller,,Patrick,,,r,f,MSK,,,,7/1/1999,6/30/2004,,,St. Joseph's Hospital,Radiologist,1,2004,1900,2004,rf
+43.065104,-89.415066,P.O. Box 44428,Madison,WI,53744,,,Klein,,Jeffrey,,,r,f,Abdominal Imaging,,,,7/1/2008,6/30/2012,7/1/2012,6/30/2013,Madison Radiologists,,1,2012,2013,2013,rf
+44.9380913,-93.30056,3547 Humboldt Ave S,Minneapolis,MN,55408,,,Lee,,Andrew,,,r,f,Abdominal Imaging,,,,6/24/2002,6/30/2007,7/1/2007,6/30/2008,,,1,2007,2008,2008,rf
+42.6868106,-89.0325084,1000 Mineral Point Ave.,Janesville,WI,53548,,,Lee,,Paul,John,,r,f,Cardiovascular Imaging,,,,7/1/2009,6/30/2013,7/1/2013,6/30/2014,Mercy Hospital and Trauma Center,,1,2013,2014,2014,rf
+43.0573044,-89.4657898,476 Rushmore Lane,Madison,WI,53711,,,Lum,,Darren,,,r,f,"MR, Cardiovascular Imaging",,,,7/1/2003,6/30/2008,,,,,1,2008,1900,2008,rf
+43.0613136,-89.4391403,334 Glenway Street,Madison,WI,53705,,,McCue,,Jeremy,,,r,f,Neuro,,,,7/1/1999,6/30/2006,,,,,1,2006,1900,2006,rf
+47.6519051,-117.4232941,800 W. 5th Ave,Spokane,WA,99204,,,McEvoy,,Jennifer,,,r,f,Musculoskeletal Imaging and Intervention,,,,7/1/2007,6/30/2011,7/1/2011,6/30/2012,"Deaconess Hospital, Rockwood Health System",Diagnostic Radiology,1,2011,2012,2012,rf
+40.7668343,-89.6776657,5412 W. Stonebridge Ct.,Peoria,IL,61615,,,Nathan,,David,,,r,f,MSK,,,,7/1/2000,6/30/2005,,,Central Illinois Radiological Associates,Private Practice,1,2005,1900,2005,rf
+41.7145494,-86.1684497,5915 Mission Trail,Granger,IN,46530,,,Nguyen,,Vu,,,r,f,MSK,,,,7/1/2000,6/30/2005,,,,,1,2005,1900,2005,rf
+43.1777153,-87.9144745,500 W. Brown Deer Road,Bayside,WI,53217,,,O'Brien,,Michael,,,r,f,Musculoskeletal Imaging and Intervention,,,,7/1/2005,6/30/2009,7/1/2009,6/30/2010,Wisconsin Radiology Specialists,Musculoskeletal,1,2009,2010,2010,rf
+43.0365562,-88.0101013,7753 Mary Ellen Pl,Wauwatosa,WI,32176,,,Olson,,Erik,,,r,f,,,,,7/1/2006,6/30/2010,,,,,1,2010,1900,2010,rf
+43.797958,-91.100402,N2101 Brecken Ridge,LaCrosse,WI,54601,,,Riherd,,Jody,,,r,f,Abdominal,,,,7/1/2004,6/30/2008,,,Gundersen-Lutheran Hopital,,1,2008,1900,2008,rf
+45.6577187,-89.4307861,5509 Mohawk Rd,Rhinelander,WI,54501,,,Rutkowski,,Anthony,,,r,f,Musculoskeletal Imaging and Intervention,,,,6/24/2004,6/30/2009,7/1/2009,6/30/2010,,,1,2009,2010,2010,rf
+45.0736771,-92.8301239,1840 Johnson Ct.,Stillwater,MN,55082,,,Sanford,,Matthew,,,r,f,MSK,,,,7/1/2002,6/30/2007,,,St. Paul Radiology,Private Practice,1,2007,1900,2007,rf
+44.9345512,-93.3377762,4525 Park Commons Drive,St. Louis Park,MN,55416,,,Schumacher,,Clark,,,r,f,"DVI, Interventional Radiology",,,,7/1/2003,6/30/2007,7/1/2007,6/30/2008,,,1,2007,2008,2008,rf
+43.0773735,-89.3815613,21 N Butler Street,Madison,WI,53703,,,Shannahan,,Sean,,,r,f,Abdominal,,,,7/1/1998,6/30/2003,,,St. Mary's / Dean Clinic,Private Practice,1,2003,1900,2003,rf
+45.6383896,-89.4113083,2881 Woods End Road,Rhinelander,WI,54504,,,Shinners,,Theodore,,,r,f,Abdominal,,,,6/24/1999,6/30/2005,,,Ministry Health-St. Mary?s Hospital,Private Practice,1,2005,1900,2005,rf
+39.0837517,-94.5773621,2401 Gillham Rd ,Kansas City,MO,64108,,,Shore,,Richard,,,r,f,,,,,,,,,,,1,1900,1900,1981,rf
+44.9605103,-93.3001328,2208 Irving Avenue South,Minneapolis,MN,55408,,,Sidney,,Scott,,,r,f,MSK,,,,7/1/2001,6/30/2007,,,,,1,2007,1900,2007,rf
+44.0660133,-123.0976944,920 Country Club Rd ,Eugene,OR,97401,,,Simard,,Marissa,,,r,f,Abdominal Imaging,,,,6/2/2008,6/30/2012,7/1/2012,6/30/2013,,,1,2012,2013,2013,rf
+44.4722366,-88.0866928,2941 South Ridge Road,Green Bay,WI,54304,,,Smyth,,Ronan,,,r,f,,,,,,,,,Green Bay Radiology,,1,1900,1900,1998,rf
+43.5783463,-116.1313553,2622 Old Hickory Way,Boise,ID,83716,,,Sonntag,,P. David,,,r,f,Interventional Radiology,,,,7/1/2007,6/30/2012,7/1/2012,6/30/2013,,,1,2012,2013,2013,rf
+43.7945656,-91.2460269,1900 South Ave,LaCrosse,WI,54601,,,Stanton,,Paul,,,r,f,Abdominal Imaging,,,,7/1/2006,6/30/2010,7/1/2010,6/30/2011,Gundersen Health,Radiology,1,2010,2011,2011,rf
+44.4722366,-88.0866928,2941 South Ridge Rd,Green Bay,WI,54304,,,Tambeaux,,Robert,,,r,f,,,,,,,,,Green Bay Radiology,,1,1900,1900,1996,rf
+43.108127,-88.144561,W187 N4975 Heron Court,Menomonee Falls,WI,,,,Ullrick,,Steven,,,r,f,Musculoskeletal Imaging and Intervention,,,,7/1/2004,6/30/2008,7/1/2008,6/30/2009,,,1,2008,2009,2009,rf
+35.1737518,-106.5914459,4801 Lang Ave NE,Albuquerque,NM,87109,,,Webb,,Heather,,,r,f,Abdominal Imaging,,,,7/1/2007,6/30/2011,8/18/2011,6/30/2012,Zia Diagnostic Imaging,Radiologist,1,2011,2012,2012,rf
+44.4722366,-88.0866928,2941 South Ridge Rd,Green Bay,WI,54304,,,Zarvan,,Nami,,,r,f,,,,,,,,,Green Bay Radiology,,1,1900,1900,1997,rf
+44.6785164,-90.177948,1000 N Oak Ave,Marshfield,WI,54449,,,Zelinski,,Nathan,,,r,f,Abdominal Imaging,,,,7/1/2006,6/30/2010,7/1/2010,6/30/2011,Marshfield Clinic,Radiology Body Imaging,1,2010,2011,2011,rf
+44.2867737,-88.4078598,201 W Northland Ave,Appleton,WI,54911,,,Ziegert,,Andrew,,,r,f,Musculoskeletal Imaging and Intervention,,,,6/24/2002,6/30/2007,7/1/2007,6/30/2008,Center for Diagnostic Imaging in Wisconsin,Musculoskeletal Radiologist,1,2007,2008,2008,rf
+40.6099243,-75.3935623,801 Ostrum Street,Bethlehem,PA,18015,,,Stanley,,Edwin,C,,r,f,Vascular and Interventional Radiology,,,,7/1/2009,6/30/2013,7/1/2013,6/30/2014,St. Luke's University Hospital,Interventional Radiology Provider,1,2013,2014,2014,rf
+41.8514306,-87.94832,2000 Spring Road,Hinsdale,IL,60523,,,Rastogi,,Ankit,K,x,r,f,,,,,,,,,Adventist Hospital System,Teleradiology,1,1900,1900,2014,rf
